@@ -7,4 +7,8 @@ bok_b = 8
 pole_prst = bok_a * bok_b
 print(pole_prst)
 
-
+bok_a = 3
+bok_b = 4
+bok_c = 5
+pole_tr = bok_a * bok_b * bok_c 
+print (pole_tr)
